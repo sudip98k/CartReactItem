@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#9cc19e;
 }
 
 code {
@@ -14,12 +15,14 @@ code {
 .cart-item{
   display: inline-flex;
   margin: 20px 10px;
+  /* justify-content:center; */
 }
 .cart-item.right-block{
   padding: 0 20px;
 }
 .cart-item-actions{
   margin-top:20px;
+  padding: 4px;
 }
 .actions-icons{
   height: 25px;
@@ -28,4 +31,24 @@ code {
 }
 .actions-icons:hover{
   cursor: pointer;
+}
+.cart{
+  display: flex;
+  flex-direction: column;
+}
+.Navbar img{
+  width: 50px;
+  padding: 10px;
+  margin: 2px;
+}
+.Navbar{
+  display: flex;
+  width: 100%;
+  background-color: blueviolet;
+  flex-direction: row-reverse;
+}
+.Total{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: large;
 }
