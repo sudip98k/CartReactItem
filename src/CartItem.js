@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function CartItem(props){
         // console.log('render');
-        console.log("this.props",props);
+        // console.log("this.props",props);
         const{price, title,qty} =props.product;
         return(
             < div className='cart-item'>

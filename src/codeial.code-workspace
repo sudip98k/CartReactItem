@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "D:/15 - Static for the Sub Pages/codeial"
+		},
+		{
+			"path": "E:/js"
+		},
+		{
+			"path": "D:/SuperHero"
+		},
+		{
+			"path": "D:/PracticeProject"
+		},
+		{
+			"path": "E:/ToDoApp2"
+		},
+		{
+			"path": "D:/AlarmClockMain"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "G:/MyHabbitTracker"
+		},
+		{
+			"path": "C:/Users/hp/Desktop/MyProject"
+		},
+		{
+			"path": "../../../MyToDo"
+		},
+		{
+			"path": "G:/nodeCrud"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"xhttp"
+		]
+	}
+}
